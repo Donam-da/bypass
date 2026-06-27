@@ -1,4 +1,6 @@
 {
   "enabled": true,
-  "redirects": {}
+  "redirects": {
+    "184-2": "melbet-beo.buzz"
+  }
 }
