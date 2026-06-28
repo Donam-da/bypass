@@ -1,10 +1,4 @@
 {
   "enabled": true,
-  "keys": {
-    "GQrX5ZRwpHsQmbqEt3ZC9bZuu4oxnF01": {
-      "expires": "2026-06-28T12:50:05+07:00",
-      "owner": "Thư",
-      "active": true
-    }
-  }
+  "keys": {}
 }
