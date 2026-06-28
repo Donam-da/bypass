@@ -1,4 +1,10 @@
 {
   "enabled": true,
-  "keys": {}
+  "keys": {
+    "TEST-SQ8O-4316": {
+      "expires": "2026-06-28T05:19:14",
+      "owner": "Thư",
+      "active": true
+    }
+  }
 }
