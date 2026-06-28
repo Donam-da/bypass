@@ -1,18 +1,28 @@
 {
   "enabled": true,
   "keys": {
+    "TEST-5MIN-001": {
+      "expires": "2026-06-28T12:05:00",
+      "owner": "test_5min",
+      "active": true
+    },
+    "TEST-1HOUR-001": {
+      "expires": "2026-06-28T13:00:00",
+      "owner": "test_1hour",
+      "active": true
+    },
     "DEMO-KEY-001": {
-      "expires": "2025-12-31",
+      "expires": "2025-12-31T23:59:59",
       "owner": "demo_user",
       "active": true
     },
     "PREMIUM-KEY-001": {
-      "expires": "2025-06-30",
+      "expires": "2025-06-30T23:59:59",
       "owner": "premium_user",
       "active": true
     },
     "TEST-KEY-001": {
-      "expires": "2024-12-31",
+      "expires": "2024-12-31T23:59:59",
       "owner": "test_user",
       "active": false
     }
