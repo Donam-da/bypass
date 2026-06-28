@@ -1,4 +1,10 @@
 {
   "enabled": true,
-  "keys": {}
+  "keys": {
+    "Y25oMfoyXjYHh78kXvMf85iwlbrmjLoe": {
+      "expires": "2026-06-28T14:28:39+07:00",
+      "owner": "tuananh",
+      "active": true
+    }
+  }
 }
